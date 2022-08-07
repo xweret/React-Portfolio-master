@@ -1,19 +1,19 @@
 let resumeData = {
-    "imagebaseurl":"https://rbhatia46.github.io/",
-    "name": "Rahul Bhatia",
-    "role": "Frontend Developer and Data Scientist",
-    "linkedinId":"Your LinkedIn Id",
+    "imagebaseurl":"/images/porfolio/h.png ",
+    "name": "Gabriel Garofalo",
+    "role": "Frontend Developer and Digital Marketer 🇦🇷",
+    "linkedinId":"https://www.linkedin.com/in/gabrielgarofalo/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": " I have experience working at marketing and building websites and web applications with JavaScript, HTML, and CSS. Also in building responsive layouts using React and Boostrap. I'm an excellent communicator and can spearheaded projects from start to finish. I'm an excellent team player and I'm always looking for new opportunities to grow and learn.",
     "socialLinks":[
         {
           "name":"linkedin",
-          "url":"https://www.linkedin.com/in/rahul-bhatia-67ba08121/",
+          "url":"https://www.linkedin.com/in/gabrielgarofalo/",
           "className":"fa fa-linkedin"
         },
         {
           "name":"github",
-          "url":"http://github.com/rbhatia46",
+          "url":"https://github.com/xweret",
           "className":"fa fa-github"
         },
         {
@@ -22,39 +22,39 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a pre-final year student at The LNM Institute of Information Technology and pursuing my B.Tech from here. I am a self taught Full Stack Web Developer, currently diving deeper into Machine Learning. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
-    "address":"India",
+    "aboutme":"I like to work on projects that are challenging and interesting. I'm a self-taught developer and I'm always looking for new opportunities to grow and learn.",
+    "address":"Based in 🇦🇷",
     "website":"https://rbhatia46.github.io",
     "education":[
       {
-        "UniversityName":"The LNM Insitute of Information Technology",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Aug",
-        "YearOfPassing":"2020",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Universidad Tecnologica Nacional",
+        "specialization":"Digital Marketing",
+        "MonthOfPassing":"Dic",
+        "YearOfPassing":"2021",
+        "Achievements":"Building a digital MVP product and scale it with the help of digital marketing"
       },
       {
-        "UniversityName":"Some University",
-        "specialization":"Some specialization",
-        "MonthOfPassing":"Jan",
-        "YearOfPassing":"2018",
-        "Achievements":"Some Achievements"
+        "UniversityName":"Universidad Tres de Febrero",
+        "specialization":"Full Stack Web Development (React)",
+        "MonthOfPassing":"Dic",
+        "YearOfPassing":"2023",
+        "Achievements":"Javascript oriented course with all the tecnologies needed to create web apps."
       }
     ],
     "work":[
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Ecom Style",
+        "specialization":"Digital Marketer",
+        "MonthOfLeaving":"May",
+        "YearOfLeaving":"2022",
+        "Achievements":"- Worked with shopify and other ecommerce platforms to build a digital marketing campaigns."
       },
       {
-        "CompanyName":"Some Company",
-        "specialization":"Some specialization",
-        "MonthOfLeaving":"Jan",
-        "YearOfLeaving":"2018",
-        "Achievements":"Some Achievements"
+        "CompanyName":"Argentinian Government",
+        "specialization":"Team leader",
+        "MonthOfLeaving":"Nov",
+        "YearOfLeaving":"2021",
+        "Achievements":"- Leading a  team to call people to help them with their problems during covid."
       }
     ],
     "skillsDescription":"Your skills here",
@@ -73,21 +73,22 @@ let resumeData = {
       {
         "name":"project1",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/phone.jpg"
+        "imgurl":"public/images/portfolio/console.jpg"
       },
       {
         "name":"project2",
         "description":"mobileapp",
-        "imgurl":"images/portfolio/project.jpg"
+        "imgurl":"public/images/portfolio/console.jpg"
+        
       },
       {
         "name":"project3",
         "description":"mobileapp",  
-        "imgurl":"images/portfolio/project2.png"
+        "imgurl":"./public/images/f.png"
       },
       {
-        "name":"project4",
-        "description":"mobileapp",
+        "name":"dasdasdasdasdasdasd",
+        "description":"lorem ipsumdsadasdasdasdasd",
         "imgurl":"images/portfolio/phone.jpg"
       }
     ],
